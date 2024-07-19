@@ -1,6 +1,6 @@
-# Integração com API da RD Station
+# Integração com API da RD Station com Python
 
-Este projeto consiste em utilizar e interagir com a API da RD Station. 
+Este projeto consiste em utilizar e interagir com a API da RD Station utlizando python. 
 
 ## Sumário
 1. [Pré-requisitos](#pré-requisitos)
